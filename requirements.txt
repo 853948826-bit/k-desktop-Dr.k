@@ -1,0 +1,4 @@
+matplotlib>=3.5.0
+numpy>=1.21.0
+httpx>=0.24.0
+pyautogui>=0.9.53
